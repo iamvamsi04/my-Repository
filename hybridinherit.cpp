@@ -49,7 +49,7 @@ public:
 };
 
 int main() {
-    cout << "This is to demonstrate Multiple inheritance" << endl;
+    cout << "This is to demonstrate Hybrid inheritance" << endl;
     Rhombus obj1;
 
     cout << "To find area of Parallelogram" << endl;
