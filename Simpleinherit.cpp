@@ -32,6 +32,6 @@ int main(){
     cout<<"enter lengths of two length and breadth: "<<endl;
     cin>>obj1.length>>obj1.breadth;
     obj1.result=obj1.AreaofRectangle(obj1.length,obj1.breadth);
-    cout<<"Area of parlleogram is "<<obj1.result<<endl;
+    cout<<"Area of rectangle is "<<obj1.result<<endl;
 
 }
