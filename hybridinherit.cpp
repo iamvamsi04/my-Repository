@@ -43,7 +43,7 @@ public:
     using Parallelogram::areaOfParallelogram;
 
     float areaOfRhombus(float d1, float d2) {
-        resultRhombus = resultRectangle + resultSquare + areaOfParallelogram(d1, d2, 0);
+        resultRhombus = 0.5*d1*d2;
         return resultRhombus;
     }
 };
