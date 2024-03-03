@@ -1,6 +1,6 @@
 class Parent {
     protected float protectedvar=10;
-    private float privatevar;
+    private float privatevar=12;
     public float publicvar=11;
 }
 
